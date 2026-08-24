@@ -1,0 +1,7 @@
+{
+  "name": "eli5",
+  "version": "1.0.0",
+  "description": "トピックを「その分野を知らない大人」向けの図解HTMLにしてArtifactとして発行する。手書き風（Koboyo 20,129種）とMaterial Symbols（4,226種）を読み手で自動振り分けし、アイコン名は実在確認を通してから使う。",
+  "author": { "name": "TRUSTAIDE" },
+  "keywords": ["explain", "eli5", "図解", "explainer", "html", "artifact"]
+}

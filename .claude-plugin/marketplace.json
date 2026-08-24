@@ -1,0 +1,13 @@
+{
+  "name": "trustaide-tonya",
+  "owner": { "name": "TRUSTAIDE" },
+  "description": "TRUSTAIDE・TONYAの2社で使うClaude Codeスキルの配布用マーケットプレイス。社内利用専用。",
+  "plugins": [
+    {
+      "name": "eli5",
+      "source": "./eli5",
+      "description": "トピックを図解HTMLで説明し、Artifactとして発行するスキル。アイコンは実在名を機械検証してから使う。",
+      "category": "learning"
+    }
+  ]
+}
